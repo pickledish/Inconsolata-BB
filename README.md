@@ -1,6 +1,8 @@
 # Inconsolata-BB
 
+This is the standard font Inconsolata, but with the brackets and delimiters instead replaced, stolen from Google's Roboto Mono. They're adapted for Inconsolata so they don't look out-of-place, and more importantly are a significant improvement upon the spacing, alignment, and style of the original (somewhat inconsistent, and crowded) Inconsolata brackets.
 
+The changes allow for subjectively neater-looking, properly spaced code. An example can be seen below:
 
 Original (example) | Modified (example)
 -------------------|-------------------
